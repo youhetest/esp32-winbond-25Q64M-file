@@ -1,0 +1,1 @@
+# esp32-winbond-25Q64M-file
